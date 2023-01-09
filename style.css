@@ -39,3 +39,16 @@ body {
       border-bottom: none;
     }
   }
+  #btn {
+    float: right;
+  }
+  #night_day {
+    border-radius: 50px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    font-size:x-large;
+  }
+  #night_day:hover {
+    background: green;
+    color: white;
+  }
